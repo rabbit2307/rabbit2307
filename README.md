@@ -12,7 +12,7 @@ I want to introduce myself as a little boy who loves to dream with the stars. Pe
 ## 📁 Featured Projects
 
 * **🌌 PSF Package Buildup**
-  - An automated Point Spread Function (PSF) package using `Sextractor` and `PSFEx` to isolate and analyze faint Intra-cluster Light (ICL).
+  - An automated Point Spread Function (PSF) package using `Sextractor` and `Photutlis` to isolate and analyze faint Intra-cluster Light (ICL).
 
 * **🧬 MiMiC: Mining Minihalos in Galaxy Clusters**
   - Detecting minihalos in cold-core galaxies by integrating multi-wavelength X-Ray and Radio data.

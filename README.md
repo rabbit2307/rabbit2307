@@ -29,6 +29,13 @@ I want to introduce myself as a little boy who loves to dream with the stars. Pe
 * **Writing Tools:** `LaTeX`.
 
 ---
+<div align="center">
+  
+[![Radit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Radit-Raian&theme=react-dark&hide_border=true&area=true&bg_color=1a1b27&color=ff8c00&line=ff8c00&point=ffffff)](https://github.com/Radit-Raian)
+
+</div>
+
+---
 
 ## 🌐 Let's Connect
 
